@@ -1,0 +1,6 @@
+C:\Users\DC\Desktop\Algoritmalar\Quick Sort\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe.config
+C:\Users\DC\Desktop\Algoritmalar\Quick Sort\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe
+C:\Users\DC\Desktop\Algoritmalar\Quick Sort\Quick Sort\Quick Sort\bin\Debug\Quick Sort.pdb
+C:\Users\DC\Desktop\Algoritmalar\Quick Sort\Quick Sort\Quick Sort\obj\Debug\Quick Sort.csprojResolveAssemblyReference.cache
+C:\Users\DC\Desktop\Algoritmalar\Quick Sort\Quick Sort\Quick Sort\obj\Debug\Quick Sort.exe
+C:\Users\DC\Desktop\Algoritmalar\Quick Sort\Quick Sort\Quick Sort\obj\Debug\Quick Sort.pdb
